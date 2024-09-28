@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Cookies Exporter",
+    "version": "1.0",
+    "permissions": [
+      "cookies",
+      "activeTab",
+      "storage"
+    ],
+    "action": {
+      "default_popup": "index.html"
+    }
+}
