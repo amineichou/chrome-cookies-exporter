@@ -2,12 +2,6 @@
 
 This Chrome extension allows users to export cookies from the current webpage in JSON format. It provides a simple user interface to copy cookies to the clipboard, facilitating easy cookie management and debugging.
 
-## Features
-
-- Export cookies from the current webpage.
-- Copy cookies in JSON format to the clipboard.
-- Supports `HttpOnly` and secure cookies through the Chrome Cookies API.
-
 ## Prerequisites
 
 - Google Chrome or any Chromium-based browser.
