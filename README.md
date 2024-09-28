@@ -12,7 +12,7 @@ This Chrome extension allows users to export cookies from the current webpage in
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/amineichou/cookies-exporter-extension.git
+git clone https://github.com/amineichou/chrome-cookies-exporter.git
 ```
 
 ### 2. Navigate to the project directory
